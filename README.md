@@ -35,3 +35,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belazy167&label=Profile%20views&color=0e75b6&style=flat" alt="belazy167" /> </p>
 
 <p align="left"> <a href="https://twitter.com/belazy167_" target="blank"><img src="https://img.shields.io/twitter/follow/belazy167_?logo=twitter&style=for-the-badge" alt="belazy167_" /></a> </p>
+
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{belazy167}/count.svg" /></p>
