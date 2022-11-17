@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [NHK DAO](https://github.com/BeLazy167/NHKDAO)
+- 🔭 I’m currently working full-time
 
 - 🌱 I’m currently learning **React, Solidity**
 
