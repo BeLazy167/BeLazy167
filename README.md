@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working full-time
+- 🔭 I’m currently looking for internships
 
 - 🌱 I’m currently learning **React, Solidity**
 
