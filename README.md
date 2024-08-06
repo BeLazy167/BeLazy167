@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently looking for internships
 
-- 🌱 I’m currently learning **React, Solidity**
+- 🌱 I’m currently learning **Rust, Nextjs**
 
-- 💬 Ask me about **Python, Javascript, MongoDB, Finance, Fitness**
+- 💬 Ask me about **Python, Typesctipt, Finance, Fitness**
 
 - 📫 How to reach me **dhruvkhara167@gmail.com**
 
