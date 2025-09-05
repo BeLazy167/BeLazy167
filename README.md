@@ -1,45 +1,195 @@
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">A passionate developer</h3>
+# <div align="center">🚀 **DHRUV KHARA** 🚀</div>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;Python+%7C+TypeScript+Wizard;Finance+%26+Fitness+Enthusiast;6'5"+Coding+Machine)](https://git.io/typing-svg)
 
+</div>
 
-- 🔭 I’m currently looking for internships
+---
 
-- 🌱 I’m currently learning **Rust, Nextjs**
+## <div align="center">⚡ **ABOUT THE DEVELOPER** ⚡</div>
 
-- 💬 Ask me about **Python, Typesctipt, Finance, Fitness**
+<table align="center">
+<tr>
+<td width="50%">
 
-- 📫 How to reach me **dhruvkhara167@gmail.com**
+### 🎯 **Current Mission**
+- 🔍 **Hunting for Internships** - Ready to bring value to your team
+- 📚 **Mastering:** Rust & Next.js 
+- 💪 **6'5" of Pure Coding Power** + Regular Gym Sessions
 
-- ⚡ Fun fact **I am 6'5 and I workout regularly**
+### 💬 **Ask Me About**
+- 🐍 **Python** - My primary weapon
+- ⚡ **TypeScript** - Type-safe magic
+- 📈 **Finance** - Numbers don't lie
+- 🏋️ **Fitness** - Mind & body optimization
 
-<h2 align="center">🥞 Tech Stack </h2>
+</td>
+<td width="50%">
 
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📬 **Connect With Me**
+- 📧 **Email:** [dhruvkhara167@gmail.com](mailto:dhruvkhara167@gmail.com)
+- 🌐 **Always open to opportunities**
 
-<h2 align="center">📊 Github Statistics </h2>
+### 🎨 **Fun Facts**
+- 🏀 Probably the tallest developer you'll meet
+- 💻 Code by day, lift by night
+- 🧠 Finance meets technology enthusiast
+- ⚡ Built for performance, inside and out
+
+</td>
+</tr>
+</table>
+
+---
+
+## <div align="center">🛠️ **ARSENAL OF TECHNOLOGIES** 🛠️</div>
+
+<div align="center">
+
+### **Languages & Frameworks**
 <p>
-  <summary>:zap: Most Used Languages</summary>
-  <img align="center" alt="13yadav's Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belazy167&theme=gruvbox&layout=compact" />
-
-  <summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="Belazy167's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belazy167&theme=gruvbox"/>
-  <summary>:zap:Contribution Graph</summary>
-  <img
-     src="https://activity-graph.herokuapp.com/graph?username=belazy167&bg_color=282828&color=d8a52d&line=7ba56d&hide_title=true&hide_border=true"
-     />
-</p>
-  <br>
-<h2 align="center">📫 Reach out to me on</h2>
-<p align="center">
-<a href="https://twitter.com/belazy167_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belazy167_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/belazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belazy" height="30" width="40" /></a>
-<a href="https://instagram.com/0xbelazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xbelazy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCdSEnLPJJO7p573oCsmhPLA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="be lazy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/be_lazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="be_lazy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/belazy167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="belazy167" height="30" width="40" /></a>
-<a href="https://discord.gg/H532hE2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="H532hE2" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust,cpp,c" />
 </p>
 
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{belazy167}/count.svg" /></p>
+### **Frontend & Backend**
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,html,css" />
+</p>
+
+### **Databases & Cloud**
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,gcp,firebase" />
+</p>
+
+### **Tools & Platforms**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma" />
+</p>
+
+</div>
+
+---
+
+## <div align="center">📊 **PERFORMANCE METRICS** 📊</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=belazy167&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=belazy167&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belazy167&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+---
+
+## <div align="center">📈 **CONTRIBUTION HEATMAP** 📈</div>
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=belazy167&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## <div align="center">🌐 **CONNECT & COLLABORATE** 🌐</div>
+
+<div align="center">
+
+<a href="https://twitter.com/belazy167_">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/belazy">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/0xbelazy">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCdSEnLPJJO7p573oCsmhPLA">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://www.hackerrank.com/be_lazy">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://www.leetcode.com/belazy167">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://discord.gg/H532hE2">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## <div align="center">🏆 **ACHIEVEMENTS & TROPHIES** 🏆</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=belazy167&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## <div align="center">⚡ **CURRENT CODING VIBE** ⚡</div>
+
+<div align="center">
+
+```python
+class DhruvKhara:
+    def __init__(self):
+        self.name = "Dhruv Khara"
+        self.height = "6'5\""
+        self.role = "Full-Stack Developer"
+        self.current_focus = ["Rust", "Next.js", "Internship Hunting"]
+        self.languages = ["Python", "TypeScript", "JavaScript", "C++", "Rust"]
+        self.interests = ["Finance", "Fitness", "Technology", "Problem Solving"]
+        self.status = "Ready to build amazing things"
+    
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something incredible together! 🚀")
+
+dhruv = DhruvKhara()
+dhruv.say_hi()
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 **"Code is like humor. When you have to explain it, it's bad."** 💫
+
+![Visitor Count](https://profile-counter.glitch.me/{belazy167}/count.svg)
+
+**⭐ Star my repos if you find them interesting! ⭐**
+
+</div>
+
+---
+
+<div align="center">
+
+**🌟 Always open to interesting conversations and collaboration opportunities! 🌟**
+
+</div>
