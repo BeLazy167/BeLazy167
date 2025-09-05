@@ -15,8 +15,8 @@
 <td width="50%">
 
 ### 🎯 **Current Mission**
-- 🔍 **Hunting for Internships** - Ready to bring value to your team
-- 📚 **Mastering:** Rust & Next.js 
+- 🔍 **Hunting for Issues** - Ready to fix issues
+- 📚 **Mastering:** Rust & GoLang 
 - 💪 **6'5" of Pure Coding Power** + Regular Gym Sessions
 
 ### 💬 **Ask Me About**
