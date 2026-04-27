@@ -1,16 +1,16 @@
 # Dhruv Khara
 
-Full-stack engineer working on Go services, AI tooling, and trading bots. Currently going deeper on Go and AI agent systems.
+Engineer building AI dev tools, security tooling, and crypto trading systems. Going deep on Go and AI agent architectures.
 
 ## Projects
 
-- **[Argus](https://argus.reviews/)** — Go service that reviews pull requests with a multi-pass AI pipeline (bug hunter, security, architecture, regression specialists). Posts inline P0/P1/P2 comments on GitHub with confidence scores.
-- **[Elliott Wave Wiki](https://elliottwave.wiki/)** — Structured reference for traders identifying and trading Elliott Wave patterns: motive/corrective formations, Fibonacci levels, entry/exit strategies across styles.
-- **[deliberate-coder](https://github.com/BeLazy167/deliberate-coder)** — Claude Code skill for assumption-first development. Forces explicit edge-case and failure-mode analysis before any code is written.
-- **[check-axios-compromise](https://github.com/BeLazy167/check-axios-compromise)** — Defensive scanner for the malicious axios 1.14.1 / 0.30.4 supply-chain attack and its RAT artifacts.
-- **polymarket-btc-bot** — Automated 5-minute BTC up/down trader for Polymarket. Ensemble fair-value model (Classic + Fat Tails) sizes +EV trades and exits at target.
+- **[Argus](https://argus.reviews/)** — AI code reviewer that catches bugs, security holes, and architectural drift before your team merges. Four specialist agents leave inline comments on GitHub PRs.
+- **[Elliott Wave Wiki](https://elliottwave.wiki/)** — Cheat sheet for traders using Elliott Wave. Patterns, Fibonacci levels, and entry/exit rules in one place.
+- **[deliberate-coder](https://github.com/BeLazy167/deliberate-coder)** — A Claude Code skill that forces the model to think through edge cases and failure modes before writing a single line.
+- **[check-axios-compromise](https://github.com/BeLazy167/check-axios-compromise)** — One-shot scan to check whether your machine got hit by the axios supply-chain attack (1.14.1 / 0.30.4).
+- **polymarket-btc-bot** — Trades 5-minute BTC up/down markets on Polymarket. Prices fair value with an ensemble model, sizes +EV bets, exits at target.
 
-Some work lives in private repos — happy to walk through any of it on request.
+Most of what I'm building lives in private repos. Drop me a line if you'd like a walkthrough.
 
 ## Stack
 
